@@ -1,0 +1,41 @@
+.image{r
+    margin: left;
+    border-radius: 40px;
+    height: 300px;
+    
+    padding-left: 100px;
+    
+
+}
+.heading{
+    
+    text-align:left;
+    font-size: 50px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    padding-left: 100px;
+}
+#bg{
+    
+    border: 2px solid black;
+    text-align: center;
+    padding-left: 100px;
+}
+.text{
+     
+    font-size: 25px;
+    padding-left: 100px;
+}
+.center{
+    text-align:left;
+}
+.button{
+    text-align:left;
+    padding: 20px 30px; 
+  font-size: 24px;
+  color: rgb(5, 1, 1);
+  border-radius: 20px;
+  padding-left: 100px;
+}
+.c{
+    text-align: center;
+}
